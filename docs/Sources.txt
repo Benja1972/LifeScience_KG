@@ -1,0 +1,14 @@
+Extract relations between chemicals and proteins (ReDL)
+
+
+
+
+
+
+
+
+
+Extract relations between effects of using multiple drugs (ReDL)
+Relation extraction between Drugs and ADE (biobert)
+Relation extraction between Drugs and ADE
+Relation extraction between Drugs and ADE (ReDL)
